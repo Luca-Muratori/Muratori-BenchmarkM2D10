@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(167, 152, 152);
+    background-color: rgb(201, 192, 192);
 }
 
-.padddingX{
+.paddingX{
     padding-left: 200px;
     padding-right: 200px;
 }
@@ -24,8 +24,9 @@ body{
 }
 
 .borderBottom{
-    padding-top:10px;
-    border-bottom: 2px solid black;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgb(10, 10, 10);
 }
 
 .gameName{
@@ -40,3 +41,23 @@ body{
         width: 823px;
 }
 
+
+.imgUnderCarousel{
+    margin:0px;
+    margin-top: 20px;
+    width:200px;
+    height: 80px;
+    
+}
+
+.cardImg{
+    height: 70px;
+}
+
+.borderGog{
+    border-right: 1px solid black;
+    margin-top:10px;
+    margin-bottom:10px;
+    width: 60%;
+
+}
