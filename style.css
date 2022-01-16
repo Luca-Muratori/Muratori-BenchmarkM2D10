@@ -90,3 +90,24 @@ body{
 .percentageSale{
     font-size:40px;
 }
+
+.imgDiscoveries{
+    width: 20%;
+}
+
+.showMoreBtn{
+    border: 1px solid black;
+margin-left: 34%;
+width: 34%;
+}
+
+.featuredPart{
+    border-bottom: 1px solid black;
+}
+
+.imgFeatures1{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
